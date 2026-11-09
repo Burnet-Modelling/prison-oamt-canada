@@ -1,0 +1,8 @@
+numpy<2
+pandas
+scipy
+matplotlib
+sciris
+openpyxl
+xlsxwriter
+atomica @ git+https://github.com/atomicateam/atomica.git
